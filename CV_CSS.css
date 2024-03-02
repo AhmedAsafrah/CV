@@ -1,0 +1,73 @@
+.divBox1{
+    border: 2PX solid rgb(200, 200, 205);
+    height: 200px;
+    margin: 50px 350px 0px 350px;
+    background-color: rgb(15, 122, 132);
+    display: flex;
+    column-gap: 200px;
+
+}
+.divName{
+    width: 350px;
+    background-color: hwb(15, 122, 132);
+    padding: 60px 100px 0px 150px; 
+    color: rgb(245, 245, 249);
+    font-size: Xx-large;
+}
+
+.divImage{
+    clip-path: circle();
+}
+.divBox2{
+    width: 62.7%;
+    height:905px;
+    background-color:rgb(230, 230, 235);
+    margin:0px 350px 0px 350px;  
+    border:2px solid rgb(200, 200, 205);
+    display: flex;
+}
+.container{
+    height: 900PX;
+    width: 50%;
+    border: solid rgb(225, 225, 230);
+
+}
+.divContant{
+    width: 100%;
+    height: 294px;
+    border: solid rgb(225, 223, 225);
+}
+h2{
+    text-align: center;
+}
+.imageContant {
+    padding: 5px 5px 5px 50px;
+}
+.oList{
+    font-size: larger;
+    padding: 5px 5px 5px 80px;
+}
+.uList{
+    font-size: large;
+    padding: 5px 5px 5px 80px;
+}
+p{
+    font-size: medium;
+    text-align:justify;
+    padding-left: 20px;
+    padding-right: 5PX;
+}
+h3{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+.divTable{
+    text-align: center;
+}
+.divExperiance{
+    width: 100%;
+    border:  solid rgb(225, 225, 230);
+    padding-bottom: 70px ;
+}
